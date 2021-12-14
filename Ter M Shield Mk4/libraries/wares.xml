@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<add sel="/wares">
+		<ware id="shield_ter_m_standard_01_mk4" name="{51982,2134}" description="{51982,2132}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+		<price min="1273420" average="1402259" max="2890000" />
+		<production time="15" amount="1" method="default" name="{51982,101}">
+			<primary>
+			<ware ware="computronicsubstrate" amount="64" />
+			<ware ware="energycells" amount="1200" />
+			<ware ware="metallicmicrolattice" amount="412" />
+			<ware ware="siliconcarbide" amount="64" />
+			</primary>
+		</production>
+		<component ref="shield_ter_m_standard_01_mk4_macro" amount="1" />
+		<restriction licence="militaryequipment" />
+		<use threshold="0.99" />
+		<owner faction="pioneers" />
+		<owner faction="terran" />
+		</ware>
+		
+	</add>
+</diff>
