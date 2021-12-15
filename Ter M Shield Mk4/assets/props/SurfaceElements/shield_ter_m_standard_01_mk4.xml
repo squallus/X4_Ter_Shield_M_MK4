@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <components>
 	<component name="shield_ter_m_standard_01_mk4" class="shieldgenerator">
-		<source geometry="extensions\ego_dlc_terran\assets\props\surfaceelements\shield_ter_m_standard_01_mk4_data"/>
+		<source geometry="extensions\ego_dlc_terran\assets\props\surfaceelements\shield_ter_m_standard_01_mk3_data"/>
 		<layers>
 			<layer>
 				<waypoints/>
